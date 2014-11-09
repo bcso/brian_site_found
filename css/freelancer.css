@@ -289,7 +289,11 @@ section.success {
     box-shadow: none!important;
     resize: none;
 }
-
+.centerP{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
 .floating-label-form-group label {
     display: block;
     z-index: 0;
